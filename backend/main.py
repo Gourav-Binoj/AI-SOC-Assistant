@@ -8,5 +8,5 @@ app = FastAPI(
 @app.get("/")
 def home():
     return {
-        "message": "AI SOC Assistant Backend is Running!"
+        "message": "AI SOC Assistant Backend Running 🚀"
     }
